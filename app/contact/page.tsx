@@ -39,7 +39,7 @@ export default function Contact() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-6 text-sm tracking-widest text-primary uppercase font-light">Get in Touch</div>
           <h1 className="text-6xl md:text-7xl font-light tracking-tighter mb-8 leading-tight">
-            Contact <span className="text-primary">NOIRÈ</span>
+           <span className="text-primary">Contact Us</span>
           </h1>
           <p className="text-lg text-muted-foreground font-light leading-relaxed max-w-2xl mx-auto">
             Questions about our products? Want to collaborate? We're here to listen.
